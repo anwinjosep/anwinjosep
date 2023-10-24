@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alfa-Alien
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
--I'm a professional 
+-
 - just working process 
 
 <!---
